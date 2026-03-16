@@ -1,2 +1,2 @@
 # OCRLiverOvary
-Bioinformatics Practicum - Group Project
+03713 - Bioinformatics Practicum 
