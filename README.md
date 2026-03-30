@@ -27,8 +27,8 @@ The repository is organized based on the main analysis steps:
 - `results/` – output files  
 
 Other files:
-- `main.py` – pipeline structure  
-- `requirements.txt` – Python dependencies  
+- `main.py` 
+- `requirements.txt`  
 
 ---
 
